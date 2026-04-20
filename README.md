@@ -1,6 +1,6 @@
-# project 1-> blinky 
+# project 1-> Mr. Bright :-)
 
-i created this blinky on breadboard in build guild bhopal and it a very fun event :D
+i created this led thing on breadboard in build guild bhopal and it a very fun event :D
 this was so fun. this was my first time working with a breadboard and i experimented a lot and even broke a bunch of LEDs lol. I also got to take away the stuff btw :p
 
 I used:
